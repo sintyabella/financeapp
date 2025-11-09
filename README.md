@@ -1,5 +1,5 @@
 # financeapp
-
+![TampilanFinnanceApp](https://github.com/user-attachments/assets/5be7f311-e2e3-403f-be49-a57c3d8a10e2)
 A new Flutter project.
 
 ## Getting Started
